@@ -1,0 +1,17 @@
+D:\techtalks\repos\BookingAPI\BookingAPI\bin\Debug\netcoreapp2.1\BookingAPI.deps.json
+D:\techtalks\repos\BookingAPI\BookingAPI\bin\Debug\netcoreapp2.1\BookingAPI.runtimeconfig.json
+D:\techtalks\repos\BookingAPI\BookingAPI\bin\Debug\netcoreapp2.1\BookingAPI.runtimeconfig.dev.json
+D:\techtalks\repos\BookingAPI\BookingAPI\bin\Debug\netcoreapp2.1\BookingAPI.dll
+D:\techtalks\repos\BookingAPI\BookingAPI\bin\Debug\netcoreapp2.1\BookingAPI.pdb
+D:\techtalks\repos\BookingAPI\BookingAPI\bin\Debug\netcoreapp2.1\BookingAPI.Services.dll
+D:\techtalks\repos\BookingAPI\BookingAPI\bin\Debug\netcoreapp2.1\BookingAPI.Services.pdb
+D:\techtalks\repos\BookingAPI\BookingAPI\obj\Debug\netcoreapp2.1\BookingAPI.csprojAssemblyReference.cache
+D:\techtalks\repos\BookingAPI\BookingAPI\obj\Debug\netcoreapp2.1\BookingAPI.csproj.CoreCompileInputs.cache
+D:\techtalks\repos\BookingAPI\BookingAPI\obj\Debug\netcoreapp2.1\BookingAPI.RazorAssemblyInfo.cache
+D:\techtalks\repos\BookingAPI\BookingAPI\obj\Debug\netcoreapp2.1\BookingAPI.RazorAssemblyInfo.cs
+D:\techtalks\repos\BookingAPI\BookingAPI\obj\Debug\netcoreapp2.1\BookingAPI.AssemblyInfoInputs.cache
+D:\techtalks\repos\BookingAPI\BookingAPI\obj\Debug\netcoreapp2.1\BookingAPI.AssemblyInfo.cs
+D:\techtalks\repos\BookingAPI\BookingAPI\obj\Debug\netcoreapp2.1\BookingAPI.RazorTargetAssemblyInfo.cache
+D:\techtalks\repos\BookingAPI\BookingAPI\obj\Debug\netcoreapp2.1\BookingAPI.csproj.CopyComplete
+D:\techtalks\repos\BookingAPI\BookingAPI\obj\Debug\netcoreapp2.1\BookingAPI.dll
+D:\techtalks\repos\BookingAPI\BookingAPI\obj\Debug\netcoreapp2.1\BookingAPI.pdb

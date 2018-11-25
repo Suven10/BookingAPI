@@ -1,0 +1,11 @@
+D:\techtalks\repos\BookingAPI\BookingAPI.Services\bin\Debug\netcoreapp2.1\BookingAPI.Services.deps.json
+D:\techtalks\repos\BookingAPI\BookingAPI.Services\bin\Debug\netcoreapp2.1\BookingAPI.Services.runtimeconfig.json
+D:\techtalks\repos\BookingAPI\BookingAPI.Services\bin\Debug\netcoreapp2.1\BookingAPI.Services.runtimeconfig.dev.json
+D:\techtalks\repos\BookingAPI\BookingAPI.Services\bin\Debug\netcoreapp2.1\BookingAPI.Services.dll
+D:\techtalks\repos\BookingAPI\BookingAPI.Services\bin\Debug\netcoreapp2.1\BookingAPI.Services.pdb
+D:\techtalks\repos\BookingAPI\BookingAPI.Services\obj\Debug\netcoreapp2.1\BookingAPI.Services.csproj.CoreCompileInputs.cache
+D:\techtalks\repos\BookingAPI\BookingAPI.Services\obj\Debug\netcoreapp2.1\BookingAPI.Services.AssemblyInfoInputs.cache
+D:\techtalks\repos\BookingAPI\BookingAPI.Services\obj\Debug\netcoreapp2.1\BookingAPI.Services.AssemblyInfo.cs
+D:\techtalks\repos\BookingAPI\BookingAPI.Services\obj\Debug\netcoreapp2.1\BookingAPI.Services.dll
+D:\techtalks\repos\BookingAPI\BookingAPI.Services\obj\Debug\netcoreapp2.1\BookingAPI.Services.pdb
+D:\techtalks\repos\BookingAPI\BookingAPI.Services\obj\Debug\netcoreapp2.1\BookingAPI.Services.csprojAssemblyReference.cache
